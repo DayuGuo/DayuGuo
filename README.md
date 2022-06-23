@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning mechine learning
 - 📫 How to reach me : dayuguo1129@outlook.com
 
-My webset: https://gzy-dayu.cn/
+My webset: https://anotherdayu.com/
