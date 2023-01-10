@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @DayuGuo
+- 👋 Hi, I’m @Zhaoyu GUO
 - 👀 I’m interested in One health.
-- 🌱 I’m currently learning mechine learning
-- 📫 How to reach me : dayuguo1129@outlook.com
-
-My webset: https://anotherdayu.com/
+- 🌱 I’m currently learning mechine learning.
+- 💻 My webset: https://anotherdayu.com/
